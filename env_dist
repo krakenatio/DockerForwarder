@@ -1,5 +1,5 @@
 # Time zone in tz database format
-TZ=Europe/Minsk
+TZ=Asia/Jakarta
 ENV=ANYTHING
 WORKERS=4
 BOT_TOKEN=
